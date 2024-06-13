@@ -22,3 +22,6 @@ To run the code, you need to install the following libraries:
 - Pairplot of the dataset colored by gender.
 - Countplot of gender distribution.
 - Distribution plots for age, annual income, and spending score.
+
+## Clustering
+Perform KMeans clustering and determine the optimal number of clusters using the elbow method and silhouette score.
